@@ -1,4 +1,4 @@
 iyzico:
-  apiKey: "sandbox-3nhJNGaXrbKJPulCAbrScCzY6XIrrhZl"
-  secretKey: "sandbox-n5TfmKqbLv39RNiLPwkLUiuzF8H0Ft4D"
+  apiKey: "SANDBOX_API_KEY"
+  secretKey: "SANDBOX_SECRET_KEY"
   baseUrl: "https://sandbox-api.iyzipay.com"
